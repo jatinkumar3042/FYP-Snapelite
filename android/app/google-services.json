@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346329838551",
+    "project_id": "snapelite-2",
+    "storage_bucket": "snapelite-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346329838551:android:25b3caa55fc88d39e15192",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXAsdIFWiDAn84_XQoQwezfhA9AU-3Ros"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
